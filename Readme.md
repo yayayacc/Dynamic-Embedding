@@ -17,8 +17,7 @@ conda create -n sage python=3.10 -y
 conda activate sage
 git clone https://anonymous.4open.science/r/SAGE
 pip install -r requirements.txt 
-mkdir lapa_checkpoints && cd lapa_checkpoints
-TO BE CONTINUED
+#TO BE CONTINUED
 ```
 
 ## Citation
