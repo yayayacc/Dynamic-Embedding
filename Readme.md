@@ -17,15 +17,15 @@ conda create -n sage python=3.10 -y
 conda activate sage
 git clone https://anonymous.4open.science/r/SAGE
 pip install -r requirements.txt 
-#TO BE CONTINUED
+python main.py
 ```
 
-## Citation
+<!-- ## Citation -->
 
-If you use this repo or found it useful, please cite us by:
+<!-- If you use this repo or found it useful, please cite us by:
 ```
 TODO
-```
+``` -->
 
 ## License
 SAGE's code are released under the MIT License.
