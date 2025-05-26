@@ -8,7 +8,9 @@ This repo is about our paper [SAGE: Scale-Aware Gradual Evolution for Continual 
 
 NEWS
 
-[2025.2.11] :fire::fire::fire: Our paper is submitted to SIGKDD 2025!!!
+[2025.5.15] :fire::fire::fire: Our paper is accepted by KDD 2025!!!
+
+[2025.2.11] :fire::fire::fire: Our paper is submitted to KDD 2025!!!
 
 ## How to use
 
